@@ -1,0 +1,17 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Photos</title>
+</head>
+<body>
+    <main>
+        <h1>Dog Photos</h1>
+        <img src="a dog.jpg">
+        <p>A dog</p>
+        <img src="cute.jpg">
+        <p>A cute white puppy</p>
+        <p>By (NAME)</p>
+    </main>
+</body>
+</html>
