@@ -1,0 +1,29 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cats</title>
+</head>
+<body>
+    <main>
+        <h1>Cats</h1>
+        <p><a href="Catphoto.html">See more</a></p>
+        <img src="one.jpg">
+        <h2>Cats(What they love and what they don't)</h2>
+        <h3>3 Things Cats Love:</h3>
+        <p>1.Naps</p>
+        <p>2.Water</p>
+        <p>3.Food</p>
+        <img src="fish.jpg">
+        <p>Cats love fish</p>
+        <h3>3 things cats hate</h3>
+        <p>1.Noise</p>
+        <p>2.Baths</p>
+        <p>3.Other cats</p>
+        <img src="cats.jpg">
+        <p>Cats hate other Cats</p>
+        <h1>Meet my other website about <A href="dog.html">Dogs</A></h1>
+        <p>By (Your name)</p>
+    </main>
+</body>
+</html>
