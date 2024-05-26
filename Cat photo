@@ -1,0 +1,17 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Photos</title>
+</head>
+<body>
+    <main>
+        <h1>Cat Photos</h1>
+        <img src="three.jpg">
+        <p>Three cute kittens</p>
+        <img src="one.jpg">
+        <p>A cute orange cat</p>
+        <p>By (NAME)</p>
+    </main>
+</body>
+</html>
